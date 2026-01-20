@@ -1,4 +1,4 @@
-# Bank Customer Segmentation Behavior Analysis
+# Customer Segmentation Behavior Analysis
 
 
 
@@ -9,9 +9,9 @@
 
 ## Context
 
-<p>As we accelerate into a digital world, the understanding of customers’ banking patterns online and segmenting them based on their preferences to predict and serve them banking services has become a top priority for banks worldwide.</p>
+<p>As we accelerate into a digital world, the understanding of customers’ banking patterns online and different segmenting them based on their preferences to predict and serve them banking services has become a top priority for worldwide.</p>
 
-<p>Most banks have a large customer base - with different characteristics in terms of age, income, values, lifestyle, and more. Customer segmentation is the process of dividing a customer dataset into specific groups based on shared traits.</p>
+<p>Most large customer base - with different characteristics in terms of age, income, values, lifestyle, and more. Customer segmentation is the process of dividing a customer dataset into specific groups based on shared traits.</p>
 
 <p>According to a report from Ernst & Young, “A more granular understanding of consumers is no longer a nice-to-have item, but a strategic and competitive imperative for banking providers. Customer understanding should be a living, breathing part of everyday business, with insights underpinning the full range of banking operations.</p>
 
