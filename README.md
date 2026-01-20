@@ -16,7 +16,8 @@
 <p>According to a report from Ernst & Young, “A more granular understanding of consumers is no longer a nice-to-have item, but a strategic and competitive imperative for banking providers. Customer understanding should be a living, breathing part of everyday business, with insights underpinning the full range of banking operations.</p>
 
 
-![Bank Customer Segmentation Behavior Analysis](https://global.hitachi-solutions.com/wp-content/uploads/2022/01/image-12.png)
+![Bank Customer Segmentation Behavior Analysis](<img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 02_14_56 PM" src="https://github.com/user-attachments/assets/71b9ff1d-4bb1-497d-a253-53405da1fe9f" />)
+
 
 ### Crucial Role of Customer Segmentation at Banks
 
