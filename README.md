@@ -2,7 +2,8 @@
 
 
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_6dcwsl6dcwsl6dcw" src="https://github.com/user-attachments/assets/f897af36-3124-4f1e-a07a-9d4273cf6bfc" />
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 02_14_56 PM" src="https://github.com/user-attachments/assets/65b0d458-52dc-4f7f-af11-7b50f84232fa" />
 
 
 
@@ -16,10 +17,7 @@
 <p>According to a report from Ernst & Young, “A more granular understanding of consumers is no longer a nice-to-have item, but a strategic and competitive imperative for banking providers. Customer understanding should be a living, breathing part of everyday business, with insights underpinning the full range of banking operations.</p>
 
 
-![Bank Customer Segmentation Behavior Analysis](<img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 02_14_56 PM" src="https://github.com/user-attachments/assets/71b9ff1d-4bb1-497d-a253-53405da1fe9f" />)
-
-
-### Crucial Role of Customer Segmentation at Banks
+### Crucial Role of Customer Segmentation
 
 <p>Customers are diverse in nature and require personalized services from banks, on the other hand, banks need to shift from a traditional mindset and accept the new kinds of customer preferences. No customer is obviously the same. A few attributes about one customer can match with another customer thereby helping banks better serve the segment of customers by predicting their wants and needs well in advance. Banks need to tap into the potential of understanding customers’ data by segmentation using artificial intelligence and machine learning techniques. Segmenting customers’ data helps banks personalize customer experiences while enhancing and defining products making them quickly adapt to customer needs, habits and interests.</p>
 
